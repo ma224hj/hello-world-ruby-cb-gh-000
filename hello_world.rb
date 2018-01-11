@@ -1,1 +1,1 @@
-puts "LABITE"
+puts "Hello World!"
